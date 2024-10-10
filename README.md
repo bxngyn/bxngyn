@@ -2,5 +2,6 @@
 
 my name's brandon. i am a cs student interested in full-stack development & art
 
-![made using a modified julia set](julia.png)
+<img src="julia.png" width="400" height="400">
+
 
